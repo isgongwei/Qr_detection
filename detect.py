@@ -4,6 +4,7 @@ import os
 import math
 import imutils
 
+path = "f:\\008.png"
 img = cv2.imread("f:\\008.png")
 OUTPUT_DIR = 'f:\\digital'
 num = 60
